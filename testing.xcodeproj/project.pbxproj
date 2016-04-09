@@ -239,6 +239,7 @@
 				08A35CF81CAC60CC00A8859F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
