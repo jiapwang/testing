@@ -18,7 +18,7 @@ bool isPalin (list<T> deezList) {
     typename list<T>::iterator it;
     stack <T> testStack;
     
-    //push all the elements of the list onto the Stack
+    //push all the elements of the list onto a Stack
     for (it = deezList.begin(); it != deezList.end(); it++) {
         testStack.push(*it);
     }
